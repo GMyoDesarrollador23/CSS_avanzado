@@ -1,4 +1,4 @@
-# css
+# css avanzado
 
 esto repositorio contiene ejemplos avenzadods de css con el fin de aprender el uso de esta tecnologia
 
